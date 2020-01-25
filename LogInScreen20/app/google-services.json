@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "870569848229",
+    "firebase_url": "https://log-in-screen-2.firebaseio.com",
+    "project_id": "log-in-screen-2",
+    "storage_bucket": "log-in-screen-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870569848229:android:6fe09c12282f44c3634c4c",
+        "android_client_info": {
+          "package_name": "com.example.loginscreen20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870569848229-64basnco4rlp3v48ih8isdbvn9gkhh8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMTvEPv-PW6XY_zdQPQsDQ2f9HPt3h1pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870569848229-64basnco4rlp3v48ih8isdbvn9gkhh8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
